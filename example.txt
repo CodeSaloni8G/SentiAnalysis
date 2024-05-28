@@ -1,0 +1,20 @@
+Positive Sentiment:
+
+"I am thrilled with the progress we've made on the project."
+"The concert was an amazing experience, and I can't wait to go again."
+Negative Sentiment:
+3. "I'm really disappointed with the service I received at the restaurant."
+
+"The weather has been miserable all week, and it's affecting my mood."
+
+
+Neutral Sentiment:
+5. "The meeting is scheduled for 10 AM tomorrow."
+
+"The report contains detailed information about the company's financial performance."
+
+
+Mixed Sentiment:
+7. "I enjoyed the movie, but the ending was quite disappointing."
+
+"She did a great job on the presentation, although there were a few minor errors."
